@@ -1,11 +1,11 @@
-# Bliss Viper Audio Mod
-BLISS_AUDIO_MOD := viper
-
 # Inherit Bliss common Phone stuff.
 $(call inherit-product, vendor/bliss/config/common_full_phone.mk)
 
 # Enhanced NFC
 $(call inherit-product, vendor/bliss/config/nfc_enhanced.mk)
+
+#Bliss Viper Audio Mod
+BLISS_AUDIO_MOD := viper
 
 $(call inherit-product, device/sony/togari/full_togari.mk)
 
