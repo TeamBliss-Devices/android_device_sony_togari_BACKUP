@@ -7,9 +7,9 @@
   },
   {
     "remote": "github",
-    "repository": "AICP/kernel_sony_msm8974",
+    "repository": "SaatvikShukla/android_kernel_sony_msm8974/",
     "target_path": "kernel/sony/msm8974",
-    "revision": "lp5.1"
+    "revision": "master"
   },
   {
     "remote": "cm",
